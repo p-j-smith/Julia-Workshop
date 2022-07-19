@@ -14,6 +14,10 @@ my_string = "Welcome to JuliaCon!"
 
 # Characters: Char - single quotes
 my_char = 'A'
+
+# Unicode characters - using latex syntax
+# Type `\alpha`, then ctrl+Enter to convert to unicode character
+# Then put in single quotes to make it a Char
 my_unicode = 'α'
 
 # typeof
